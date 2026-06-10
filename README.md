@@ -1,0 +1,1 @@
+# get-full-page-privacy
